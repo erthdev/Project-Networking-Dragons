@@ -198,3 +198,10 @@ Android TV Media Hub
 - Improve documentation
 
 Although Emerald Dragon has reached its intended purpose, research surrounding the hardware has not ended. If future developments make custom firmware practical, additional experimentation may continue while preserving the device's role as the media hub of the Networking-Dragons ecosystem.
+
+### Related Documentation
+
+> For a more in-depth dive into the documentation and research process, click the following documentations.
+
+- [Black Dragon Log 1 – Original Research and Investigation](../Black-Dragon-Development/docs/log-1.md)
+- [Emerald Dragon README](README.md)
