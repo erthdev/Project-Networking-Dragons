@@ -203,5 +203,5 @@ Although Emerald Dragon has reached its intended purpose, research surrounding t
 
 > For a more in-depth dive into the documentation and research process, click the following documentations.
 
-- [Black Dragon Log 1 – Original Research and Investigation](../Black-Dragon-Development/docs/log-1.md)
+- [Black Dragon Log 1 – Original Research and Investigation](/Black-Dragon-Development/docs/log-1.md)
 - [Emerald Dragon README](README.md)
