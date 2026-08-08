@@ -1,5 +1,6 @@
 <div align="center">
 
+<img width="1024" height="254" alt="image" src="https://github.com/user-attachments/assets/3e19b438-1ab6-42d3-b5da-91d3c53fb8a7" />
 
 # White Dragon
 
