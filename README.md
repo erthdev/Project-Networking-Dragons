@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🐉 Networking Dragons
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/894c6fb0-34b5-45b4-93b5-9c6c2978df58" />
+
+# Networking Dragons
 
 ### *Breathing New Life Into Forgotten Networks*
 
@@ -92,28 +94,6 @@ The documentation is considered just as valuable as the final result.
 
 Every completed project becomes a Dragon.
 
-Example structure:
-
-```
-Networking Dragons
-
-🐉 White Dragon
-Huawei EG8145V5
-Wireless Access Point
-
-🐉 Black Dragon
-Firewall Appliance
-
-🐉 Azure Dragon
-Network Monitoring Server
-
-🐉 Emerald Dragon
-VPN Gateway
-
-🐉 Golden Dragon
-Enterprise Laboratory Router
-```
-
 Each Dragon has its own repository containing:
 
 - Hardware Information
@@ -123,48 +103,6 @@ Each Dragon has its own repository containing:
 - Benchmarks
 - Lessons Learned
 - Future Improvements
-
----
-
-# Project Workflow
-
-```
-Acquire Hardware
-
-↓
-
-Inspect
-
-↓
-
-Repair
-
-↓
-
-Restore
-
-↓
-
-Configure
-
-↓
-
-Experiment
-
-↓
-
-Optimize
-
-↓
-
-Document
-
-↓
-
-Publish
-```
-
-Each stage is documented so that future contributors can reproduce the work.
 
 ---
 
@@ -238,19 +176,38 @@ Future work:
 
 ---
 
-# Planned Dragons
+## 🐉 Emerald Dragon
 
-The collection will continue expanding as additional networking hardware is restored.
+**Platform**
 
-Potential future projects include:
+Converge Xperience Hub  
+ZTE ZXV10 B886V2F  
+Amlogic S905Y4
 
-- Custom routers
-- Embedded Linux appliances
-- Firewall systems
-- Raspberry Pi networking platforms
-- ESP32 networking experiments
-- Custom firmware development
+**Mission**
 
+Repurpose an ISP issued IPTV platform into a dedicated home media hub while documenting its hardware, firmware, boot process, and reverse engineering limitations.
+
+Completed:
+
+- Hardware identification
+- Amlogic S905Y4 platform investigation
+- eMMC storage identification
+- MaskROM test point investigation
+- Boot process investigation
+- Firmware research
+- Custom firmware feasibility assessment
+- Android TV media hub deployment
+- Plex installation and configuration
+- Emerald Dragon themed redesign
+
+Future work:
+
+- Expand local media storage
+- Hardware documentation
+- Board and test point documentation
+- Continued firmware research
+- Further exploration of the S905Y4 platform
 ---
 
 # Contributing
