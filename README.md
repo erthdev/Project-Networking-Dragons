@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Focus](https://img.shields.io/badge/Focus-Networking-orange)
-![Hardware](https://img.shields.io/badge/Hardware-Embedded-green)
+![Hardware](https://img.shields.io/badge/Hardware-Networking-green)
 ![Platform](https://img.shields.io/badge/Platform-Linux-yellow)
 
 *"Every dragon has a story."
