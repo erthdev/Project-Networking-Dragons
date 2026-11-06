@@ -1,6 +1,4 @@
-<div align="center">
 
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/894c6fb0-34b5-45b4-93b5-9c6c2978df58" />
 
 # Networking Dragons
 
