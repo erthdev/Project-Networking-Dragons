@@ -10,9 +10,9 @@
 ![Hardware](https://img.shields.io/badge/Hardware-Embedded-green)
 ![Platform](https://img.shields.io/badge/Platform-Linux-yellow)
 
-*"Every dragon has a story. Every piece of hardware deserves a second life."*
+*"Every dragon has a story."
 
-</div>
+
 
 ---
 
@@ -75,7 +75,7 @@ Networking Dragons follows a simple philosophy.
 
 > **Repair before replacing. Learn before modifying. Document before forgetting. Share before discarding.**
 
-Every project aims to answer questions such as:
+Every project seeks to answer questions such as:
 
 - Can this hardware still be useful?
 - Can hidden features be unlocked?
@@ -171,74 +171,6 @@ Future work:
 - Internal cooling
 - Firmware research
 - UART documentation
-
----
-
-## 🐉 Emerald Dragon
-
-**Platform**
-
-Converge Xperience Hub  
-ZTE ZXV10 B886V2F  
-Amlogic S905Y4
-
-**Mission**
-
-Repurpose an ISP issued IPTV platform into a dedicated home media hub while documenting its hardware, firmware, boot process, and reverse engineering limitations.
-
-Completed:
-
-- Hardware identification
-- Amlogic S905Y4 platform investigation
-- eMMC storage identification
-- MaskROM test point investigation
-- Boot process investigation
-- Firmware research
-- Custom firmware feasibility assessment
-- Android TV media hub deployment
-- Plex installation and configuration
-- Emerald Dragon themed redesign
-
-Future work:
-
-- Expand local media storage
-- Hardware documentation
-- Board and test point documentation
-- Continued firmware research
-- Further exploration of the S905Y4 platform
----
-
-# Contributing
-
-Contributions are welcome.
-
-Possible contributions include:
-
-- Documentation improvements
-- Hardware research
-- Firmware analysis
-- PCB identification
-- Benchmark testing
-- Security improvements
-- Reverse engineering
-
-Please document your findings thoroughly.
-
----
-
-# Inspiration
-
-Networking Dragons was inspired by a simple observation.
-
-Old networking hardware is rarely broken.
-
-More often, it is simply forgotten.
-
-This project exists to prove that forgotten hardware can still teach valuable lessons.
-
-Every Dragon is a reminder that engineering is not only about creating new technology.
-
-Sometimes, it is about giving existing technology a second chance.
 
 ---
 
